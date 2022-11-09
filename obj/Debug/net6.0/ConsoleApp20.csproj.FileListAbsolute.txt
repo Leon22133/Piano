@@ -1,0 +1,15 @@
+D:\ConsoleApp20\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.exe
+D:\ConsoleApp20\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.deps.json
+D:\ConsoleApp20\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.runtimeconfig.json
+D:\ConsoleApp20\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.dll
+D:\ConsoleApp20\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.pdb
+D:\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.csproj.AssemblyReference.cache
+D:\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.AssemblyInfoInputs.cache
+D:\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.AssemblyInfo.cs
+D:\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+D:\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.dll
+D:\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\refint\ConsoleApp20.dll
+D:\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.pdb
+D:\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.genruntimeconfig.cache
+D:\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ref\ConsoleApp20.dll
